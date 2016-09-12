@@ -1,0 +1,41 @@
+body{
+	background: #005408;
+}
+
+img {
+
+   width: 500px;
+  height: 490px;
+	
+
+}
+p{
+	color:#F2EA09;
+	font-family: century;
+	font-size: 30px;
+}
+h1{
+	color: #2BA1E5;
+	text-align: left; 
+	font-family: century;
+	font-size: 50px;
+}
+
+embed{
+   width: 1000px;
+   background: blue;
+  }
+
+ul{
+
+	text-align: left;
+	font-family: cursive;
+	background: #E52B72;
+	
+}
+
+h4{
+   color: #E8FD4B;
+   text-align: center;
+   font-family: arial;
+} 

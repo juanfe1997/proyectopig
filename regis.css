@@ -1,0 +1,106 @@
+body{
+	background: #0F26EE;
+}
+h1{
+	color: #67E163;
+	text-align: center; 
+	font-family: century;
+	font-size: 50px;
+}
+form{ 
+	text-align: center; 
+ }
+ ul{
+
+	text-align: left;
+	font-family: cursive;
+	background: #8BE163;
+	}
+	form input[type="text"]{
+	    	background: #E70FEE;
+	    	color: #1AEE0F;
+	    	text-align: left;
+	    	display: inline-block;
+	    	margin-left: 25px;
+	    	margin-bottom: 20px;
+	    	padding: 15px 30px;
+	    	border: none;
+	    }
+ form input[type="email"]{
+	    	background: #E70FEE;
+	    	color: #1AEE0F;
+	    	text-align: left;
+	    	display: inline-block;
+	    	margin-left: 18px;
+	    	margin-bottom: 10px;
+	    	padding: 8px 20px;
+	    	border: none;
+	    
+  }
+  form input[type="submit"]{
+	    	background: blue;
+	    	color: white;
+	    	text-align: center;
+	    	display: inline-block;
+	    	margin-left: 18px;
+	    	margin-bottom: 10px;
+	    	padding: 8px 20px;
+	    	border: none;
+	    }
+ form input[type="reset"]{
+	    	background: red;
+	    	color: white;
+	    	text-align: center;
+	    	display: inline-block;
+	    	margin-left: 18px;
+	    	margin-bottom: 10px;
+	    	padding: 8px 20px;
+	    	border: none;
+	    }
+
+  form select[name="Documento"]{
+  	        background: #E70FEE;
+	    	color: #1AEE0F;
+	    	text-align: center;
+	    	display: inline-block;
+	    	margin-left: 25px;
+	    	margin-bottom: 20px;
+	    	padding: 15px 30px;
+	    	border: none;
+
+
+  }
+  form select[name="fecha de nacimiento"]{
+  	        background: #E70FEE;
+	    	color: #1AEE0F;
+	    	text-align: center;
+	    	display: inline-block;
+	    	margin-left: 25px;
+	    	margin-bottom: 20px;
+	    	padding: 15px 30px;
+	    	border: none;
+
+
+  }
+  form input[type="number"]{
+	    	background: #E70FEE;
+	    	color: #1AEE0F;
+	    	text-align: center;
+	    	display: inline-block;
+	    	margin-left: 25px;
+	    	margin-bottom: 20px;
+	    	padding: 15px 30px;
+	    	border: none;
+	    }
+iframe{
+	width:640px;
+	height:350px;
+
+}	    
+ 
+h4{
+	text-align: center;
+	color: #47EE0F;
+	font-family: cursive;
+
+}

@@ -1,0 +1,50 @@
+body{
+	background: #69E756;
+}
+
+img {
+ 
+  width: 500px;
+  height: 490px;
+	
+
+}
+p{
+	color:#2112EE;
+	font-family: verdana;
+}
+h1{
+	color: #EE1216;
+	text-align: center; 
+	font-family: century;
+
+}
+
+embed{
+	display:block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 600px;
+   background: blue;
+  }
+
+iframe{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 700px; 
+	height:500px;
+}
+ul{
+
+	text-align: left;
+	font-family: cursive;
+	background: #EE8F12;
+	
+}
+
+h4{
+   color: #BE12EE;
+   text-align: center;
+   font-family: tahoma;
+} 

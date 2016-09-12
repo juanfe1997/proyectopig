@@ -1,0 +1,47 @@
+body{
+	background: #AEA69F;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 490px;
+  height: 490px;
+	
+
+}
+p{
+	color:#F2EA09;
+	font-family: century;
+	text-align: center;
+	font-size: 30px;
+}
+h1{
+	color: #3438C6;
+	text-align: center; 
+	font-family: century;
+	font-size: 50px;
+}
+
+embed{
+	display:block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 700px;
+ 
+  }
+
+ul{
+
+	text-align: left;
+	font-family: cursive;
+	background: #09DAF2;
+	
+}
+
+h4{
+   color: #E8FD4B;
+   text-align: center;
+   font-family: arial;
+} 

@@ -1,0 +1,53 @@
+body{
+	background: aquamarine;
+
+	
+}
+
+img {
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 800px;
+	height: 500px;
+}
+iframe{
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 700px;
+	height: 500px;
+
+}
+h1{
+	color: green;
+	text-align: center; 
+	font-family: cursive;
+
+}
+
+embed{
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 100px;
+
+  }
+
+ul{
+	color: green;
+	
+}
+ul{
+
+	text-align: left;
+	font-family: tahoma;
+	background: yellow;
+}
+
+h4{
+   color: green;
+   text-align: center;
+   font-family: verdana;
+} 

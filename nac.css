@@ -1,0 +1,43 @@
+body{
+	background: #4F6085;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 400px;
+	
+
+}
+p{
+	color:#0EF5A0;
+	font-family: tahoma;
+}
+h1{
+	color: #CAF50E;
+	text-align: center; 
+	font-family: verdana;
+
+}
+
+embed{
+   width: 1000px;
+   height: 300px;
+   
+  }
+
+ul{
+
+	text-align: left;
+	font-family: century;
+	background: green;
+	text-decoration-color: green;
+}
+
+h4{
+   color: #F5CE0E;
+   text-align: center;
+   font-family: cursive;
+} 
